@@ -1,6 +1,7 @@
 # Personal_website
 
-First comment. It works!
+Run:
 
-
-Second comment, SSH works!
+In the command line type....
+    export FLASK_APP=Personal_website.py
+    flask run
