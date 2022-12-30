@@ -1,5 +1,5 @@
 # Personal_website
-
+source venv/bin/activate
 Run:
 
 In the command line type....
